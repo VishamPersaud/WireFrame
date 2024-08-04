@@ -1,8 +1,16 @@
 .navbar {
   background-color: aqua;
+  height: 60px;
 }
  
 
 .title {
   text-align: center;
+  background-color: aqua;
+
+}
+
+
+.extra {
+  background-color: black;
 }
