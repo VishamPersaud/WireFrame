@@ -1,24 +1,8 @@
+.navbar {
+  background-color: aqua;
+}
  
-.row {
-    margin: 0px;
-  }
-.pattern .col {
-    height: 50px;
-  
-  }
-.boxcolor1 {
-    background-color:#ff3838;
-  }
-.boxcolor2 {
-    background-color: #57c0f4;
-  }
-.boxcolor3 {
-    background-color: yellow;
-  }
-.boxcolor4 {
-    background-color: #24d624;
-  }
 
-.boxcolor5 {
-  background-color: #c832c8;
+.title {
+  text-align: center;
 }
